@@ -29,8 +29,14 @@
 </p>
 <hr>
 
-<h2 id="2">2</h2>
-<p>Explaination</p>
+<h2 id="2">HTML Frames</h2>
+<p>
+    - The <i>html</i> tag represents the root of an HTML document. It is the container for all other  HTML elements (except for the <!DOCTYPE> tag). <br>
+    - The <i>head</i> element is a container for metadata (data about data) and is placed between the  <i>html</i> tag and the <i>body</i> tag. <br>
+    - The <i>body</i>> element contains all the contents of an HTML document, such as headings,  paragraphs, images, hyperlinks, tables, lists, etc. <br>
+    - The <i>frameset</i> tag in HTML is used to define the frameset. The <i>frameset</i> element  contains one or more frame elements. 
+    - The <i>frame</i> tag is used to define one particular window (frame) within a <i>frameset</i>. 
+</p>
 <hr>
 
 <h2 id="3">3</h2>
