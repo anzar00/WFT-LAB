@@ -49,8 +49,14 @@
 </p>
 <hr>
 
-<h2 id="4">4</h2>
-<p>Explaination</p>
+<h2 id="4">CSS Selectors</h2>
+<p>
+    - CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed. 
+    - The .class selector selects elements with a specific class attribute. To select elements with a specific class, write a period (.) character, followed by the name of the class. 
+    - The background-image property sets one or more background images for an element. 
+    - The background-repeat property sets if/how a background image will be repeated. 
+    - By default, a background-image is repeated both vertically and horizontally. 
+</p>
 <hr>
 
 <h2 id="5">5</h2>
