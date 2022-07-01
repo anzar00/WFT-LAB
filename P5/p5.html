@@ -1,0 +1,34 @@
+<!-- 
+    Write an HTML page that contains a selection box with a list of 5 countries. In the above page, when the 
+    user selects a country, its capital should be printed next to the list. Also add CSS to customize the 
+    properties of the font of the capital. 
+-->
+
+<html>
+
+<head>
+    <title> Country & Capital </title>
+    <script type="text/javascript">
+        function displayCapital(dropDown) {
+            var selectedValue = dropDown.options[dropDown.selectedIndex].value;
+            document.getElementById("Capital").innerHTML
+                = selectedValue;
+        } 
+    </script>
+</head>
+
+<body>
+    <form action="">
+        <select name="Countries" onChange="displayCapital(this);">
+            <option value=""> ..Select a country...</option>
+            <option value="New Delhi"> India </option>
+            <option value="Washington D.C."> United States </option>
+            <option value="London"> United Kingdom </option>
+            <option value="Jerusalem"> Israel </option>
+            <option value="Moscow"> Russia </option>
+        </select>
+        <h1 style="color: blue; font-family: verdana; font-size: 20pt;" id="Capital" type="text"></h1>
+    </form>
+</body>
+
+</html>
