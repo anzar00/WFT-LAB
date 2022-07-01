@@ -67,12 +67,16 @@
     - Function names can contain letters, digits, underscores, and dollar signs (same rules as variables). 
     - The code to be executed, by the function, is placed inside curly brackets: {} 
     - The getElementById() method returns the element that has the ID attribute with the specified value. 
-
 </p>
 <hr>
 
-<h2 id="6">6</h2>
-<p>Explaination</p>
+<h2 id="6">Sorting Numbers with JS</h2>
+<p>
+    - The sort() method sorts the items of an array. The sort order can be either alphabetic or numeric, and either ascending (up) or descending (down). 
+    - By default, the sort() method sorts the values as strings in alphabetical and ascending order. 
+    - Because of this, the sort() method will produce an incorrect result when sorting numbers.
+    - To handle numeric sorting, sort() can take a compareFunction parameter that defines an  alternate sorting order. 
+</p>
 <hr>
 
 <h2 id="7">Distance Vector Algorithm</h2>
