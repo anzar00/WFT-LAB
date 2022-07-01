@@ -1,0 +1,60 @@
+ad {
+    display: block;
+    font: bold 20px Times;
+    color: brown;
+    line-height: 30px;
+}
+
+heading {
+    font: bold 25px Times;
+    color: blue;
+    text-decoration: underline;
+}
+
+adl {
+    display: block;
+    font: bold 20px Times;
+    color: brown;
+    line-height: 30px;
+    padding-left: 35px;
+}
+
+heading_small {
+    font: bold 20px Times;
+    color: purple;
+}
+
+patient {
+    color: gray;
+    padding: 100px;
+}
+
+fname,
+mname,
+lname {
+    color: red;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+age,
+rnum {
+    color: fuchsia;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+insurancename,
+pnum,
+gnum {
+    color: blue;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+medicalprobs,
+knownallergies {
+    color: green;
+    font-size: 20px;
+    font-weight: normal;
+}

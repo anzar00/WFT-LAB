@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="p7.css" ?>
+<airline>
+    <ad>
+        <program>Airline Information System</program>
+    </ad>
+    <info>
+        <ad>
+            <heading> American Airlines </heading>
+        </ad>
+        <ad> Flight number: <Anumber> AA001 </Anumber>
+        </ad>
+        <ad> Name: <name> Rahul M Dinesh </name>
+        </ad>
+        <ad> Destination: <dest> Seattle </dest>
+        </ad>
+        <ad> Year Of Manufacturing: <yom> 2010 </yom>
+        </ad>
+        <ad> Price: <price> 1,20,000 </price>
+        </ad>
+    </info>
+    <info>
+        <ad>
+            <heading> Emirates </heading>
+        </ad>
+        <ad> Flight number: <Anumber> EK101 </Anumber>
+        </ad>
+        <ad> Name: <name>RohithArsha</name>
+        </ad>
+        <ad> Destination: <dest> Dubai </dest>
+        </ad>
+        <ad> Year Of Manufacturing: <yom> 2012 </yom>
+        </ad>
+        <ad> Price: <price> 90,000 </price>
+        </ad>
+    </info>
+    <info>
+        <ad>
+            <heading> British Airways </heading>
+        </ad>
+        <ad> Flight number: <Anumber> BA001 </Anumber>
+        </ad>
+        <ad> Name: <name>Shivanand G Prabhu</name>
+        </ad>
+        <ad> Destination: <dest> London </dest>
+        </ad>
+        <ad> Year Of Manufacturing: <yom> 2016 </yom>
+        </ad>
+        <ad> Price: <price> 1,00,000 </price>
+        </ad>
+    </info>
+</airline>

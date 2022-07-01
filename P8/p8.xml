@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<hospital>
+    <ad>
+        <heading> Hospital - Patient Data </heading>
+    </ad>
+    <ad>-------------------------------------------</ad>
+    <patient>
+        <ad>
+            <heading_small> Name </heading_small>
+        </ad>
+        <name>
+            <adl>First name: <fname>Aishwarya</fname>
+            </adl>
+            <adl>Midle name: <mname>Satish</mname>
+            </adl>
+            <adl>Last name: <lname> Kumar </lname>
+            </adl>
+        </name>
+        <ad>Age: <age> 23 </age>
+        </ad>
+        <ad>Room number: <rnum> 201 </rnum>
+        </ad>
+        <ad>
+            <heading_small> Primary Insurance </heading_small>
+        </ad>
+        <insurancecompany type="primary">
+            <adl>Insurance name: <insurancename> LIC </insurancename>
+            </adl>
+            <adl>Primary ID: <pnum> 15647 </pnum>
+            </adl>
+            <adl>Group ID: <gnum> 54 </gnum>
+            </adl>
+        </insurancecompany>
+        <ad>
+            <heading_small> Secondary Insurance </heading_small>
+        </ad>
+        <insurancecompany type="secondary">
+            <adl>Insurance name: <insurancename> HDFC </insurancename>
+            </adl>
+            <adl>Primary ID: <pnum> 564 </pnum>
+            </adl>
+            <adl>Group ID: <gnum> 9462 </gnum>
+            </adl>
+        </insurancecompany>
+        <ad>Existing medical problems: <medicalprobs> Asthma </medicalprobs>
+        </ad>
+        <ad>Existing allergies: <knownallergies> Dust </knownallergies>
+        </ad>
+    </patient>
+    <ad>-------------------------------------------</ad>
+    <patient>
+        <ad>
+            <heading_small> Name </heading_small>
+        </ad>
+        <name>
+            <adl>First name: <fname> Johnathan </fname>
+            </adl>
+            <adl>Midle name: <mname> H </mname>
+            </adl>
+            <adl>Last name: <lname> Smith </lname>
+            </adl>
+        </name>
+        <ad>Age: <age> 64 </age>
+        </ad>
+        <ad>Room number: <rnum> 501 </rnum>
+        </ad>
+        <ad>
+            <heading_small> Primary Insurance </heading_small>
+        </ad>
+        <insurancecompany type="primary">
+            <adl>Insurance name:
+                <insurancename>Dhanalaxmi</insurancename>
+                Page No: 26
+                Course Code: 20CSL66
+            </adl>
+            <adl>Primary ID: <pnum> 746 </pnum>
+            </adl>
+            <adl>Group ID: <gnum> 74 </gnum>
+            </adl>
+        </insurancecompany>
+        <ad>
+            <heading_small> Secondary Insurance </heading_small>
+        </ad>
+        <insurancecompany type="secondary">
+            <adl>Insurance name:
+                <insurancename> LIC Jeevan</insurancename>
+            </adl>
+            <adl>Primary ID: <pnum> 23 </pnum>
+            </adl>
+            <adl>Group ID: <gnum> 647 </gnum>
+            </adl>
+        </insurancecompany>
+        <ad>Existing medical problems: <medicalprobs> Diabetes </medicalprobs>
+        </ad>
+        <ad>Existing allergies: <knownallergies> Azithromycin </knownallergies>
+        </ad>
+    </patient>
+    <ad>-------------------------------------------</ad>
+    <patient>
+        <ad>
+            <heading_small> Name </heading_small>
+        </ad>
+        <name>
+            <adl>First name: <fname> Shiv </fname>
+            </adl>
+            <adl>Midle name: <mname> Shankar </mname>
+            </adl>
+            <adl>Last name: <lname> Narayan </lname>
+            </adl>
+        </name>
+        <ad>Age: <age> 35 </age>
+        </ad>
+        <ad>Room number: <rnum> 201 </rnum>
+        </ad>
+        <ad>
+            <heading_small> Primary Insurance </heading_small>
+        </ad>
+        <insurancecompany type="primary">
+            <adl>Insurance name: <insurancename> SBI Life </insurancename>
+            </adl>
+            <adl>Primary ID: <pnum> 57465 </pnum>
+            </adl>
+            <adl>Group ID: <gnum> 5434 </gnum>
+            </adl>
+        </insurancecompany>
+        <ad>
+            <heading_small> Secondary Insurance </heading_small>
+        </ad>
+        <insurancecompany type="secondary">
+            <adl>Insurance name:
+                <insurancename> Axis Health </insurancename>
+            </adl>
+            <adl>Primary ID: <pnum> 732 </pnum>
+            </adl>
+            <adl>Group ID: <gnum> 124 </gnum>
+            </adl>
+        </insurancecompany>
+        <ad>Existing medical problems: <medicalprobs> High B.P. </medicalprobs>
+        </ad>
+        <ad>Existing allergies: <knownallergies>Paracetamol</knownallergies>
+        </ad>
+    </patient>
+    <ad>-------------------------------------------</ad>
+</hospital>

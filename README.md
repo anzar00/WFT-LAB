@@ -79,22 +79,26 @@
 </p>
 <hr>
 
-<h2 id="7">Distance Vector Algorithm</h2>
+<h2 id="7">Airline System - XML</h2>
 <p>
-    - Algorithm used for routing. <br>
-    - Routing is a process of finding the best possible path. <br>
-    - Metric used is distance. <br>
+    - XML stands for eXtensibleMarkup Language. <br>
+    - XML is a software- and hardware-independent tool for storing and transporting data. <br>
+    - XML was designed to be both human- and machine-readable. <br>
+    - In XML, tags or elements are user-defined. The first element of XML document is called  root element. A simple XML document contain opening tag and closing tag.  <br>
+    - XML tags are case sensitive i.e., 'root' and 'Root' both tags are different. The XML tags  are used to define the scope of elements in XML document. <br>
+    - In order to display the XML file using CSS, link XML file with CSS. <br>
+
 </p>
 <hr>
 
-<h2 id="8">Link State Algorithm</h2>
+<h2 id="8">Hospital System - XML</h2>
 <p>
     - Uses greedy approach . <br>
     - Shortest path from source to all other nodes.
 </p>
 <hr>
 
-<h2 id="9">RSA Algorithm</h2>
+<h2 id="9">Hospital System - XSLT</h2>
 <p>
     - By Rivest, Shamir, Adleman <br>
     - Public-key cryptography scheme <br>
@@ -102,16 +106,15 @@
 </p>
 <hr>
 
-<h2 id="10">Diffie Hellman</h2>
+<h2 id="10">Transpose and Addition of Matricies</h2>
 <p>- Public-key cryptography scheme <br></p>
 <hr>
 
-<h2 id="11">11</h2>
-<p>
-    
+<h2 id="11">Page Views - PHP</h2>
+<p>   
 </p>
 <hr>
 
-<h2 id="12">12</h2>
+<h2 id="12">CURD Operations - MySQL with PHP</h2>
 <p>Explaination</p>
 <hr>

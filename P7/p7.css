@@ -1,0 +1,48 @@
+ad {
+    display: block;
+    font: bold 20px Times;
+    color: brown;
+    line-height: 30px;
+}
+
+program {
+    text-decoration: underline;
+    font-size: 30px;
+    color: red;
+}
+
+heading {
+    font: bold 25px Times;
+    color: blue;
+}
+
+airline {
+    margin-top: 10px;
+    margin-left: 10px;
+    color: black;
+}
+
+info {
+    color: gray;
+    padding: 100px;
+}
+
+Anumber,
+name {
+    color: red;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+dest {
+    color: blue;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+yom,
+price {
+    color: green;
+    font-size: 20px;
+    font-weight: normal;
+}
