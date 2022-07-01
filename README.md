@@ -39,8 +39,14 @@
 </p>
 <hr>
 
-<h2 id="3">3</h2>
-<p>Explaination</p>
+<h2 id="3">Catalogue using Tables</h2>
+<p>
+    - The <i>html</i> tag represents the root of an HTML document. It is the container for all other  HTML elements (except for the <!DOCTYPE> tag). <br>
+    - The <i>head</i> element is a container for metadata (data about data) and is placed between the  <i>html</i> tag and the <i>body</i> tag. <br>
+    - The <i>body</i>> element contains all the contents of an HTML document, such as headings,  paragraphs, images, hyperlinks, tables, lists, etc. <br>
+    - The <i>table</i>> tag defines an HTML table. An HTML table may also include <i>caption</i>,  <i>colgroup</i>, <i>thead</i>, <i>tfoot</i>, and <i>tbody</i> elements.  <br>
+    - The <i>th</i> tag defines a header cell in an HTML table. The <i>td</i> tag defines a standard data  cell in an HTML table. 
+</p>
 <hr>
 
 <h2 id="4">4</h2>
