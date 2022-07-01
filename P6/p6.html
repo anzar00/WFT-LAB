@@ -1,0 +1,33 @@
+<!--  
+    Write an HTML page including java script that takes a given set of integer numbers and shows them 
+    after sorting in descending and ascending order. 
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JS Sort Numbers</title>
+</head>
+
+<body>
+    <h2>JavaScript Array Sort</h2>
+    <p>Click the button to sort the array.</p>
+    <button onclick="Descending()">Descending Order</button>
+    <button onclick="Ascending()">Ascending Order</button>
+    <p id="display"></p>
+    <script type="text/javascript">
+        var MyList = [90, 80, 60, 70, 20, 40, 50, 100, 10, 30];
+        document.getElementById("display").innerHTML = MyList.join(", ");
+        function Descending() {
+            MyList.sort(function (a, b) { return b - a });
+            document.getElementById("display").innerHTML = MyList.join(", ");
+        }
+        function Ascending() {
+            MyList.sort(function (a, b) { return a - b });
+            document.getElementById("display").innerHTML = MyList.join(", ");
+        } 
+    </script>
+</body>
+
+</html>
