@@ -59,8 +59,16 @@
 </p>
 <hr>
 
-<h2 id="5">5</h2>
-<p>Explaination</p>
+<h2 id="5">Country and Capital with JS</h2>
+<p>
+    - A JavaScript function is a block of code designed to perform a particular task. 
+    A JavaScript function is executed when it is called.  
+    - A JavaScript function is defined with the function keyword, followed by a name and parentheses (). 
+    - Function names can contain letters, digits, underscores, and dollar signs (same rules as variables). 
+    - The code to be executed, by the function, is placed inside curly brackets: {} 
+    - The getElementById() method returns the element that has the ID attribute with the specified value. 
+
+</p>
 <hr>
 
 <h2 id="6">6</h2>
